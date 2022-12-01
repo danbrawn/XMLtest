@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+'<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE response SYSTEM "/xml/rs_getdata.dtd">
 <response>
 	<node id="213">
 		<v t="20221130T01:04:46" s="0" d="0">0.2</v>
 	</node>
 </response>
+'
