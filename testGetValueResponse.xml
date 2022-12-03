@@ -1,0 +1,9 @@
+<!DOCTYPE response SYSTEM "/xml/rs_getdata.dtd">
+<response>
+	<node id="213">
+		<v t="20221130T01:04:46" s="0" d="0">22.2</v>
+	</node>
+	<node id="223">
+		<v t="20221130T01:04:46" s="0" d="0">-1.2</v>
+	</node>
+</response>
